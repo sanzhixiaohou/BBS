@@ -1,0 +1,4 @@
+E:\2016\BBS\Model\bin\Debug\Model.dll
+E:\2016\BBS\Model\bin\Debug\Model.pdb
+E:\2016\BBS\Model\obj\Debug\Model.dll
+E:\2016\BBS\Model\obj\Debug\Model.pdb

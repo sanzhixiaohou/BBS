@@ -1,0 +1,13 @@
+E:\2016\BBS\SQLServerDAL\obj\Debug\SQLServerDAL.csprojResolveAssemblyReference.cache
+E:\2016\BBS\SQLServerDAL\bin\Debug\SQLServerDAL.dll
+E:\2016\BBS\SQLServerDAL\bin\Debug\SQLServerDAL.pdb
+E:\2016\BBS\SQLServerDAL\bin\Debug\Common.dll
+E:\2016\BBS\SQLServerDAL\bin\Debug\DBUtility.dll
+E:\2016\BBS\SQLServerDAL\bin\Debug\IDAL.dll
+E:\2016\BBS\SQLServerDAL\bin\Debug\Model.dll
+E:\2016\BBS\SQLServerDAL\bin\Debug\Common.pdb
+E:\2016\BBS\SQLServerDAL\bin\Debug\DBUtility.pdb
+E:\2016\BBS\SQLServerDAL\bin\Debug\IDAL.pdb
+E:\2016\BBS\SQLServerDAL\bin\Debug\Model.pdb
+E:\2016\BBS\SQLServerDAL\obj\Debug\SQLServerDAL.dll
+E:\2016\BBS\SQLServerDAL\obj\Debug\SQLServerDAL.pdb

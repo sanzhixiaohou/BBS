@@ -1,0 +1,9 @@
+E:\2016\BBS\DALFactory\bin\Debug\DALFactory.dll
+E:\2016\BBS\DALFactory\bin\Debug\DALFactory.pdb
+E:\2016\BBS\DALFactory\obj\Debug\DALFactory.csprojResolveAssemblyReference.cache
+E:\2016\BBS\DALFactory\obj\Debug\DALFactory.dll
+E:\2016\BBS\DALFactory\obj\Debug\DALFactory.pdb
+E:\2016\BBS\DALFactory\bin\Debug\IDAL.dll
+E:\2016\BBS\DALFactory\bin\Debug\Model.dll
+E:\2016\BBS\DALFactory\bin\Debug\IDAL.pdb
+E:\2016\BBS\DALFactory\bin\Debug\Model.pdb

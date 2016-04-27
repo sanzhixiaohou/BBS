@@ -1,0 +1,7 @@
+E:\2016\BBS\IDAL\bin\Debug\IDAL.dll
+E:\2016\BBS\IDAL\bin\Debug\IDAL.pdb
+E:\2016\BBS\IDAL\bin\Debug\Model.dll
+E:\2016\BBS\IDAL\bin\Debug\Model.pdb
+E:\2016\BBS\IDAL\obj\Debug\IDAL.csprojResolveAssemblyReference.cache
+E:\2016\BBS\IDAL\obj\Debug\IDAL.dll
+E:\2016\BBS\IDAL\obj\Debug\IDAL.pdb
