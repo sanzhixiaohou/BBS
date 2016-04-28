@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap 101 Template</title>
+
+<!-- include libries(jQuery, bootstrap, fontawesome) 
+
+-->
+<!-- include libraries(jQuery, bootstrap, fontawesome) -->
+<script src="js/jquery-1.9.1.min.js"></script> 
+<link href="css/bootstrap.min.css" rel="stylesheet"> 
+<script src="js/bootstrap.min.js"></script> 
+<link href="css/font-awesome.min.css" rel="stylesheet">
+
+<!-- include summernote css/js-->
+<link href="css/summernote.css" rel="stylesheet">
+<script src="js/summernote.min.js"></script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body style="margin:20px">
+  <p>
+<h1>请选择板块</h1>
+  <select name=bankuai width="300px">
+  	  
+  	<option value="food"> 美食广场</option>
+  	<option value="food">逛街购物</option>
+  	<option value="food"> 五花八门</option>
+  	<option value="food"> 行行摄摄</option>
+  	<option value="food"> 搞笑图片</option>
+  	<option value="food"> T台秀场</option>
+  	<option value="food"> 奇闻趣事</option>
+  	<option value="food"> 人文风情</option>
+  </select></p>
+ 
+<div id="summernote">Hello Summernote</div>
+<script type="text/javascript">
+	
+$(document).ready(function() {
+        $('#summernote').summernote(
+          { height: 300,
+                     });
+    });
+
+</script>
+<div class="pull-right">
+<button class="btn btn-default" type="submit" onclick="get">发表</button>
+
+</div>
+  </body>
+</html>

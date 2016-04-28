@@ -1,0 +1,8 @@
+.w200{
+	width: 200px;
+    text-align: center;
+}
+
+.panel-group .panel+.panel {
+  margin-top: 0px;
+}

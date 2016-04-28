@@ -1,0 +1,35 @@
+.a{background-color: #288ce6;}
+.b{text-align: center;}
+.c{width: 250px;
+background-color: #f7a947;}
+
+.login-close-btn {
+position: absolute;
+z-index: 10;
+top: -22px;
+right: -23px;
+display: block;
+width: 45px;
+height: 46px;
+background: url(../images/login_close.png) center center no-repeat;
+}
+
+.d{width: 150px;}
+.e{height: 33px;}
+.denglu{padding-top: 15px;}
+
+
+
+
+.a1{background-color: #8cdcdb;}
+.a2{padding-left: 50px;}
+.a3{margin-top: 300px;}
+.a4{color: black;}
+.a5{padding-left: 15px;}
+.a6{color: red;}
+.a7{background-color:black;
+color:#fcfbfa;  }
+.a8{background-color: #000;}
+.a9{color: #030303;}
+body{ margin:0px;}
+.a10{margin-left:250px;}

@@ -132,10 +132,73 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Admin\ashx\" />
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="About.aspx" />
+    <Content Include="Admin\c.html" />
+    <Content Include="Admin\css\bootstrap.min.css" />
+    <Content Include="Admin\css\css.css" />
+    <Content Include="Admin\css\css1.css" />
+    <Content Include="Admin\css\css2.css" />
+    <Content Include="Admin\css\font-awesome.min.css" />
+    <Content Include="Admin\css\index.css" />
+    <Content Include="Admin\css\jquery.dataTables.min.css" />
+    <Content Include="Admin\css\Login_style.css" />
+    <Content Include="Admin\css\select2.min.css" />
+    <Content Include="Admin\css\styles.css" />
+    <Content Include="Admin\css\summernote-bs3.css" />
+    <Content Include="Admin\css\summernote.css" />
+    <Content Include="Admin\fatie.html" />
+    <Content Include="Admin\fatie\css\bootstrap.min.css" />
+    <Content Include="Admin\fatie\css\font-awesome.min.css" />
+    <Content Include="Admin\fatie\css\index.css" />
+    <Content Include="Admin\fatie\css\jquery.dataTables.min.css" />
+    <Content Include="Admin\fatie\css\select2.min.css" />
+    <Content Include="Admin\fatie\css\summernote-bs3.css" />
+    <Content Include="Admin\fatie\css\summernote.css" />
+    <Content Include="Admin\fatie\fatie.html" />
+    <Content Include="Admin\fatie\fonts\fontawesome-webfont.svg" />
+    <Content Include="Admin\fatie\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Admin\fatie\js\bootstrap.min.js" />
+    <Content Include="Admin\fatie\js\jquery-1.9.1.min.js" />
+    <Content Include="Admin\fatie\js\jquery.dataTables.min.js" />
+    <Content Include="Admin\fatie\js\select2.min.js" />
+    <Content Include="Admin\fatie\js\summernote.min.js" />
+    <Content Include="Admin\fatie\插件.txt" />
+    <Content Include="Admin\food.html" />
+    <Content Include="Admin\images\1.jpg" />
+    <Content Include="Admin\images\1164943657579.gif" />
+    <Content Include="Admin\images\14.jpg" />
+    <Content Include="Admin\images\2.jpg" />
+    <Content Include="Admin\images\31.jpg" />
+    <Content Include="Admin\images\333.jpg" />
+    <Content Include="Admin\images\333.png" />
+    <Content Include="Admin\images\4600721_165001184117_2.jpg" />
+    <Content Include="Admin\images\5.jpg" />
+    <Content Include="Admin\images\7943290_155206295348_2.jpg" />
+    <Content Include="Admin\images\arrow.png" />
+    <Content Include="Admin\images\banner.jpg" />
+    <Content Include="Admin\images\bg.png" />
+    <Content Include="Admin\images\houzi.jpg" />
+    <Content Include="Admin\images\meishi1.jpg" />
+    <Content Include="Admin\images\toux.jpg" />
+    <Content Include="Admin\index.html" />
+    <Content Include="Admin\js\bootstrap.min.js" />
+    <Content Include="Admin\js\jquery-1.9.1.min.js" />
+    <Content Include="Admin\js\jquery.dataTables.min.js" />
+    <Content Include="Admin\js\jquery.js" />
+    <Content Include="Admin\js\jquery.min.js" />
+    <Content Include="Admin\js\npm.js" />
+    <Content Include="Admin\js\select2.min.js" />
+    <Content Include="Admin\js\sliding_effect.js" />
+    <Content Include="Admin\js\summernote.min.js" />
+    <Content Include="Admin\leftnav.html" />
+    <Content Include="Admin\login.html" />
+    <Content Include="Admin\nav.html" />
+    <Content Include="Admin\top.html" />
+    <Content Include="Admin\zhuce.html" />
     <Content Include="BBSReply\Add.aspx" />
     <Content Include="BBSReply\delete.aspx" />
     <Content Include="BBSReply\List.aspx" />
@@ -167,6 +230,13 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Admin\fatie\fonts\fontawesome-webfont.eot" />
+    <Content Include="Admin\fatie\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Admin\fatie\fonts\fontawesome-webfont.woff" />
+    <Content Include="Admin\fatie\fonts\FontAwesome.otf" />
+    <Content Include="Admin\fatie\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Admin\fatie\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Admin\fatie\fonts\glyphicons-halflings-regular.woff" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\ai.0.15.0-build58334.js" />
     <Content Include="Scripts\ai.0.15.0-build58334.min.js" />

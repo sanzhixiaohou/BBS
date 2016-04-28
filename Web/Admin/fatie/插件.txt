@@ -1,0 +1,28 @@
+http://cyeboss.iteye.com/blog/2094683
+
+
+文本编辑框
+http://jingyan.baidu.com/article/86112f1352c84e27379787fb.html
+
+http://www.jqcool.net/bootstrap-summernote.html
+
+http://www.bootcss.com/p/font-awesome/  Font Awesome 是一套完美的图标字体  要下载里面的字体文件夹
+
+选择框
+https://select2.github.io/
+
+表格
+http://www.datatables.net/
+http://blog.csdn.net/mickey_miki/article/details/8240477  中文
+
+
+后台二级垂直菜单
+http://www.huosen.net/demo/bootstrap-menu/index.html  b2的
+
+http://www.huosen.net/archives/176.html
+
+用列表组 Collapse 完成
+注意
+.panel-group .panel+.panel {
+  margin-top: 0px;
+}

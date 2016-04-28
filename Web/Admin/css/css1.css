@@ -1,0 +1,31 @@
+.a1{ 
+padding-top: 50px;}
+.a2{ width: 270px;
+height: 35px;
+border: solid;
+border-color: red;
+}
+.s1{ background-color:#e5e9ec;
+color:#0066FF;
+margin:0 auto;
+margin-top:20px;
+height:90px;
+padding-top:15px;
+padding-left:25px;
+
+}
+.s2{ margin-top:0px;
+margin-left:10px; }
+
+.s3{ height:200px;
+ background-color:#e5e9ec;
+margin:0 auto;
+margin-top:20px;
+padding-top:15px;
+padding-left:15px;
+}
+.s4{ margin-bottom:90px;}
+.s5{ float:right;
+margin-top:-50px;
+margin-right:130px;
+} 
